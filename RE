@@ -1,0 +1,2 @@
+# Scheduling-Algorithms
+Developed a website to simulate CPU scheduling algorithms using HTML , CSS , Javascript and PHP . Given various Processes , their arrival time and Burst Time , Problem is to calculate Waiting Time for each Process accroding to various CPU scheduling Algorithms such as FCFS, SJF , Priority Scheduling and Round Robin Algorithm. These algorithms are analysed and compared based on Waiting time of each processes when scheduled by these algorithms.
